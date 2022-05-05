@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1587373850 source:c:\users\jodan\onedrive\asztali gép\programozás_baksáné_1-2-3...12-13\szabo_daniel_xuxejo_8_feladat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<assert.h>
+	<unistd.h>
+	<sys/file.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<time.h>
+

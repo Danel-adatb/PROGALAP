@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579451307 source:c:\users\jodan\onedrive\asztali gép\programozás_baksáné_1-2-3...12-13\vizsga_legyenmameg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

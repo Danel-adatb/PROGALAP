@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580163646 source:c:\users\jodan\onedrive\asztali gép\programozás_baksáné_1-2-3...12-13\gec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574701517 source:c:\users\jodan\onedrive\asztali gép\programozás_baksáné_1-2-3...12-13\dorina_help_2.zh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+

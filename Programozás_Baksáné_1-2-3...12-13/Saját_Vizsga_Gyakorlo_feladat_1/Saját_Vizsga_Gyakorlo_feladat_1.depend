@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579733126 source:c:\users\jodan\onedrive\asztali gép\programozás_baksáné_1-2-3...12-13\saját_vizsga_gyakorlo_feladat_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

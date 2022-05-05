@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579733025 source:c:\users\jodan\onedrive\asztali gép\programozás_baksáné_1-2-3...12-13\2.zh_minta_vizsga_gyakorlas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
